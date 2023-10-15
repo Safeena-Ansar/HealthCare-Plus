@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="addTestResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="adminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="adminDocSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="adminDoctors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="adminEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="adminMedicine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="adminPatientReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="adminPatients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="adminReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="adminRooms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="adminTestings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="adminTheaters.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="adminViewPatientDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="approveBookingPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="approveTestPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BookingReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="labDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="officialDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="passwordChange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="profileView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="searchDoctors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TestReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserBookingPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserDoctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="userPatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="userTestPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="userViewDocSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewDoctorProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewScheduleDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,66 @@
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare Plus.csproj.AssemblyReference.cache
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare_Plus.FrmLogin.resources
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare Plus.csproj.GenerateResource.cache
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare Plus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare Plus.AssemblyInfoInputs.cache
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare Plus.AssemblyInfo.cs
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare Plus.csproj.CoreCompileInputs.cache
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\bin\Debug\net6.0-windows\HealthCare Plus.exe
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\bin\Debug\net6.0-windows\HealthCare Plus.deps.json
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\bin\Debug\net6.0-windows\HealthCare Plus.runtimeconfig.json
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\bin\Debug\net6.0-windows\HealthCare Plus.dll
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\bin\Debug\net6.0-windows\HealthCare Plus.pdb
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare Plus.dll
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\refint\HealthCare Plus.dll
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare Plus.pdb
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare Plus.genruntimeconfig.cache
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\ref\HealthCare Plus.dll
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare Plus.csproj.CopyComplete
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\bin\Debug\net6.0-windows\ZstdSharp.dll
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare_Plus.adminDashboard.resources
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare_Plus.Properties.Resources.resources
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare_Plus.adminReport.resources
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare_Plus.adminMedicine.resources
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare_Plus.adminRooms.resources
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare_Plus.adminTestings.resources
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare_Plus.adminTheaters.resources
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare_Plus.profileView.resources
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare_Plus.adminEmployee.resources
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare_Plus.passwordChange.resources
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare_Plus.adminDoctors.resources
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare_Plus.adminPatients.resources
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare_Plus.adminDocSchedule.resources
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare_Plus.searchDoctors.resources
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare_Plus.labDashboard.resources
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare_Plus.officialDashboard.resources
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare_Plus.UserDashboard.resources
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare_Plus.ViewScheduleDetails.resources
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare_Plus.ViewDoctorProfile.resources
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare_Plus.addTestResult.resources
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare_Plus.approveBookingPayment.resources
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare_Plus.approveTestPayment.resources
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare_Plus.userPatient.resources
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare_Plus.UserDoctor.resources
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare_Plus.userViewDocSchedule.resources
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare_Plus.userTestPayment.resources
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare_Plus.UserBookingPayment.resources
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare_Plus.adminPatientReport.resources
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare_Plus.adminViewPatientDetails.resources
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare_Plus.TestReport.resources
+D:\Safeena\AD\Projects\HealthCare Plus\HealthCare Plus\obj\Debug\net6.0-windows\HealthCare_Plus.BookingReport.resources
